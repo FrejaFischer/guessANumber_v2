@@ -50,7 +50,7 @@ function lowerGuess(min, max) {
 }
 
 function higherGuess(min, max) {
-  console.log("higherGuess");
+  // console.log("higherGuess");
   guessCount = guessCount + 1;
   console.log("higherGuess" + guessCount);
 
